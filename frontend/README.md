@@ -37,13 +37,13 @@ Com docker instalado em seu computador, execute o comando abaixo para baixar a I
  ## Imagens do projeto
 Tela Principal Transação
 <h1 align="center">
-    <img alt="GoFinanceWeb" title="#GoFinanceWeb" src="https://github.com/carlosjunior1983/GoFinance/blob/master/img_readme/goFinance.png"  /><br>
+    <img alt="GoFinanceWeb" title="#GoFinanceWeb" src="https://github.com/carlosjunior1983/node-react-gofinance/blob/master/frontend/img_readme/goFinance.png"  /><br>
 </h1>
 
 <br>
 Tela de Importar CSV contendo as transações
 <h1 align="center">
-    <img alt="github_explorer" title="#GoFinanceWebImport" src="https://github.com/carlosjunior1983/GoFinance/blob/master/img_readme/goFinance_import.png"  /><br>
+    <img alt="github_explorer" title="#GoFinanceWebImport" src="https://github.com/carlosjunior1983/node-react-gofinance/blob/master/frontend/img_readme/goFinance_import.png"  /><br>
 </h1>
 
 
